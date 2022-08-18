@@ -1,1 +1,9 @@
 # Sprint_Review_CS_250
+
+This is a Sprint Review and Retrospective project I did for an Agile/Scrum software development lifecyle class.
+
+  I interpret a user’s needs by putting myself in their position, and thinking about what I expect in the program. This need is translated into technical requirements and techniques so that developers on the team know how to go about fulfilling the expectation. This is where user stories come in to help with the creation process. They take a user’s feature request and translate it into short segments that are understandable by both technical and non-technical team members. 
+  
+  I approach development in ways that allow for flexibility and innovation. Large and complex programs can have many different approaches and methods to solving a problem. We have to be able to recognize that there are sustainable ways to make good software, such as reusability and adaptability. My overall approach to software is according to the requirements and ambitions of a project, where maintainable code is prioritized if the project is large and time-consuming. I hope to incorporate agile principles of flexible code and changing project direction, because not every approach works out, and it helps to be prepared for it.
+  
+  A good team member in software development is one who balances self-motivation and communication. Communication can cause delays and conflict, but cannot be minimized. Independence can cause integration issues and disjointed teams, but cannot be minimized. The best team members are ones who can communicate when merging goes wrong, or when requirements in user stories are unclear. The best team members also, at the same time, must be able to solve most issues on their own, and rely on their own expertise to deliver the minimum functionality for moving projects forward.
